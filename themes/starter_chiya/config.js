@@ -119,7 +119,7 @@ const CONFIG = {
   STARTER_ABOUT_IMAGE_1: '/images/starter_chiya/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter_chiya/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '+',
-  STARTER_ABOUT_TIPS_1_IMAGE: '/images/starter_chiya/about/tips-image03.jpg', // 用於替換數字顯示的照片
+  STARTER_ABOUT_TIPS_1_IMAGE: '/images/starter_chiya/about/about-image-03.jpg', // 用於替換數字顯示的照片
   STARTER_ABOUT_TIPS_2: '博客站點',
   STARTER_ABOUT_TIPS_3: '正在線上運行',
   // endregion
