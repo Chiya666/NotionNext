@@ -59,16 +59,26 @@ export const About = () => {
                     </div>
 
                     <div className='relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-primary px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8'>
-                      <div>
-                        <span className='block text-5xl font-extrabold text-white'>
-                          {siteConfig('STARTER_ABOUT_TIPS_1')}
-                        </span>
-                        <span className='block text-base font-semibold text-white'>
-                          {siteConfig('STARTER_ABOUT_TIPS_2')}
-                        </span>
-                        <span className='block text-base font-medium text-white text-opacity-70'>
-                          {siteConfig('STARTER_ABOUT_TIPS_3')}
-                        </span>
+                      <div className='w-full h-full'>
+                        {siteConfig('STARTER_ABOUT_TIPS_1_IMAGE') ? (
+                          <img
+                            src={siteConfig('STARTER_ABOUT_TIPS_1_IMAGE')}
+                            alt='about tips image'
+                            className='w-full h-full object-cover object-center rounded'
+                          />
+                        ) : (
+                          <>
+                            <span className='block text-5xl font-extrabold text-white'>
+                              {siteConfig('STARTER_ABOUT_TIPS_1')}
+                            </span>
+                            <span className='block text-base font-semibold text-white'>
+                              {siteConfig('STARTER_ABOUT_TIPS_2')}
+                            </span>
+                            <span className='block text-base font-medium text-white text-opacity-70'>
+                              {siteConfig('STARTER_ABOUT_TIPS_3')}
+                            </span>
+                          </>
+                        )}
                       </div>
                       <div>
                         <span className='absolute left-0 top-0 -z-10'>
