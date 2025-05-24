@@ -88,22 +88,22 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2: '以深耕行業超過30年的經驗為您解決問題。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '水刀清洗', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '項目細節說明', // 特性1說明
+  STARTER_FEATURE_1_TEXT_1: '利用高壓水流去除表面污垢和沉積物的技術，常用於設備清潔、除鏽、除漆以及管路清潔、阻塞清通或RC打毛等，具有高效、不損傷基材的優點。', // 特性1說明
   STARTER_FEATURE_1_BUTTON_TEXT: '瞭解更多', // 特性1按鈕
   STARTER_FEATURE_1_BUTTON_URL: '/ServiceOffering1', // 特性1連結
 
   STARTER_FEATURE_2_TITLE_1: '水刀切割', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '項目細節說明', // 特性2說明
+  STARTER_FEATURE_2_TEXT_1: '利用高壓水流混合磨料（如石榴石）進行切割的技術，因低溫無火花特性，常於易燃易爆環境中使用', // 特性2說明
   STARTER_FEATURE_2_BUTTON_TEXT: '瞭解更多', // 特性2按鈕
   STARTER_FEATURE_2_BUTTON_URL: '/ServiceOffering2', // 特性2連結
 
   STARTER_FEATURE_3_TITLE_1: '免入槽水刀清洗', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '項目細節說明', // 特性3說明
+  STARTER_FEATURE_3_TEXT_1: '人員無法進入的狹小或危險區域，也能有效完成清潔作業。不僅可省去搭設鷹架等作業平台的費用，同時大幅降低人員進入密閉空間所產生的風險，兼顧安全與效率。', // 特性3說明
   STARTER_FEATURE_3_BUTTON_TEXT: '瞭解更多', // 特性3按鈕
   STARTER_FEATURE_3_BUTTON_URL: '/ServiceOffering3', // 特性3連結
 
   STARTER_FEATURE_4_TITLE_1: '換熱器整修', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '項目細節說明', // 特性4說明
+  STARTER_FEATURE_4_TEXT_1: '提供全方位的換熱器維修作業，包括法蘭端面修復、管束（Tube）更換、焊補作業，以及螺絲孔修復等，確保設備運作效能與壽命，滿足各類工業維護需求。', // 特性4說明
   STARTER_FEATURE_4_BUTTON_TEXT: '瞭解更多', // 特性4按鈕
   STARTER_FEATURE_4_BUTTON_URL: '/ServiceOffering4', // 特性4連結
   // endregion
