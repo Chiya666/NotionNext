@@ -240,15 +240,15 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: '什麼是水刀?',
   STARTER_FAQ_1_ANSWER:
-    '問題解答(HTML格式)',
+    '是一種利用高壓水射流進行切割和清洗的技術。<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《詳細說明》</a>',
 
   STARTER_FAQ_2_QUESTION: '水刀能做什麼?',
   STARTER_FAQ_2_ANSWER:
-    '問題解答(HTML格式)',
+    '除鏽除漆、管路清潔與疏通、設備與儲槽內外清洗，亦適用於混凝土表面打毛，廣泛應用於各類工業維護與施工作業。',
 
   STARTER_FAQ_3_QUESTION: '水刀會打壞設備嗎?',
   STARTER_FAQ_3_ANSWER:
-    '問題解答(HTML格式)',
+    '是否會造成損壞，取決於使用的水壓、清潔角度、噴嘴大小，以及與工件之間的距離、材質與表面狀況等多項因素。建議與我們聯繫，我們將根據您的實際需求，提供最專業的建議與說明',
 
   STARTER_FAQ_4_QUESTION: '問題4',
   STARTER_FAQ_4_ANSWER:
