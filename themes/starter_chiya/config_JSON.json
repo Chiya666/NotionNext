@@ -1,0 +1,240 @@
+{
+  "基礎配置": {
+    "STARTER_LOGO": "/images/starter_chiya/logo/ChiyaLogo.png",
+    "STARTER_LOGO_WHITE": "/images/starter_chiya/logo/ChiyaLogo.png"
+  },
+  
+  "導航": {
+    "STARTER_NAV_BUTTONS_ENABLE": false,
+    "STARTER_NAV_BUTTON_1_TEXT": "Sign In",
+    "STARTER_NAV_BUTTON_1_URL": "/sign-in",
+    "STARTER_NAV_BUTTON_2_TEXT": "Sign Up",
+    "STARTER_NAV_BUTTON_2_URL": "/sign-up"
+  },
+  
+  "英雄區": {
+    "STARTER_HERO_ENABLE": true,
+    "STARTER_HERO_BACKGROUND_ENABLE": true,
+    "STARTER_HERO_BACKGROUND_IMAGE": "",
+    "STARTER_HERO_BACKGROUND_OPACITY": 0.7,
+    "STARTER_HERO_BACKGROUND_FIXED": false,
+    "STARTER_HERO_TITLE_1": "",
+    "STARTER_HERO_TITLE_2": "",
+    "STARTER_HERO_BUTTON_1_TEXT": "",
+    "STARTER_HERO_BUTTON_1_URL": "https://docs.tangly1024.com/article/vercel-deploy-notion-next",
+    "STARTER_HERO_BUTTON_2_TEXT": "",
+    "STARTER_HERO_BUTTON_2_URL": "https://github.com/tangly1024/NotionNext",
+    "STARTER_HERO_BUTTON_2_ICON": "/images/starter_chiya/github.svg",
+    "STARTER_HERO_PREVIEW_IMAGE": "",
+    "STARTER_HERO_BANNER_IMAGE": ""
+  },
+  
+  "品牌合作": {
+    "STARTER_BRANDS_ENABLE": false,
+    "STARTER_BRANDS": [
+      {
+        "IMAGE": "/images/starter/brands/graygrids.svg",
+        "IMAGE_WHITE": "/images/starter/brands/graygrids-white.svg",
+        "URL": "https://graygrids.com/",
+        "TITLE": "graygrids"
+      },
+      {
+        "IMAGE": "/images/starter/brands/lineicons.svg",
+        "IMAGE_WHITE": "/images/starter/brands/lineicons-white.svg",
+        "URL": "https://lineicons.com/",
+        "TITLE": "lineicons"
+      },
+      {
+        "IMAGE": "/images/starter/brands/uideck.svg",
+        "IMAGE_WHITE": "/images/starter/brands/uideck-white.svg",
+        "URL": "https://uideck.com/",
+        "TITLE": "uideck"
+      },
+      {
+        "IMAGE": "/images/starter/brands/ayroui.svg",
+        "IMAGE_WHITE": "/images/starter/brands/ayroui-white.svg",
+        "URL": "https://ayroui.com/",
+        "TITLE": "ayroui"
+      },
+      {
+        "IMAGE": "/images/starter/brands/tailgrids.svg",
+        "IMAGE_WHITE": "/images/starter/brands/tailgrids-white.svg",
+        "URL": "https://tailgrids.com/",
+        "TITLE": "tailgrids"
+      }
+    ]
+  },
+  
+  "服務特性": {
+    "STARTER_FEATURE_ENABLE": true,
+    "STARTER_FEATURE_TITLE": "啟雅工程企業股份有限公司",
+    "STARTER_FEATURE_TEXT_1": "主要服務項目",
+    "STARTER_FEATURE_TEXT_2": "以深耕行業超過30年的經驗為您解決問題。",
+    "STARTER_FEATURE_1_TITLE_1": "水刀清洗",
+    "STARTER_FEATURE_1_TEXT_1": "項目細節說明",
+    "STARTER_FEATURE_1_BUTTON_TEXT": "瞭解更多",
+    "STARTER_FEATURE_1_BUTTON_URL": "https://github.com/tangly1024/NotionNext",
+    "STARTER_FEATURE_2_TITLE_1": "水刀切割",
+    "STARTER_FEATURE_2_TEXT_1": "項目細節說明",
+    "STARTER_FEATURE_2_BUTTON_TEXT": "瞭解更多",
+    "STARTER_FEATURE_2_BUTTON_URL": "https://docs.tangly1024.com/article/notion-next-themes",
+    "STARTER_FEATURE_3_TITLE_1": "免入槽水刀清洗",
+    "STARTER_FEATURE_3_TEXT_1": "項目細節說明",
+    "STARTER_FEATURE_3_BUTTON_TEXT": "瞭解更多",
+    "STARTER_FEATURE_3_BUTTON_URL": "https://docs.tangly1024.com/article/next-js",
+    "STARTER_FEATURE_4_TITLE_1": "換熱器整修",
+    "STARTER_FEATURE_4_TEXT_1": "項目細節說明",
+    "STARTER_FEATURE_4_BUTTON_TEXT": "瞭解更多",
+    "STARTER_FEATURE_4_BUTTON_URL": "https://docs.tangly1024.com/about"
+  },
+  
+  "關於我們": {
+    "STARTER_ABOUT_ENABLE": true,
+    "STARTER_ABOUT_TITLE": "關於我們",
+    "STARTER_ABOUT_TEXT": "我們是一家成立超過30年的水刀工程公司，專注於設備管路的清洗和不動火切割，服務項目涵蓋換熱器維護相關工程，如現場法蘭修復及管束抽裝等。 <br /> <br />我們提供卓越的技術和豐富的經驗，為客戶提供全方位的解決方案。",
+    "STARTER_ABOUT_BUTTON_TEXT": "瞭解更多",
+    "STARTER_ABOUT_BUTTON_URL": "/about",
+    "STARTER_ABOUT_IMAGE_1": "/images/starter/about/about-image-01.jpg",
+    "STARTER_ABOUT_IMAGE_2": "/images/starter/about/about-image-02.jpg",
+    "STARTER_ABOUT_TIPS_1": "7000+",
+    "STARTER_ABOUT_TIPS_2": "博客站點",
+    "STARTER_ABOUT_TIPS_3": "正在線上運行"
+  },
+  
+  "價格方案": {
+    "STARTER_PRICING_ENABLE": false,
+    "STARTER_PRICING_TITLE": "價格表",
+    "STARTER_PRICING_TEXT_1": "很棒的定價計劃",
+    "STARTER_PRICING_TEXT_2": "我們制定了靈活的付費模式，您可以按需選擇。（NotionNext免費開源，這裡僅演示產品訂閱付費功能，請勿下單購買！）",
+    "STARTER_PRICING_1_TITLE": "入門版",
+    "STARTER_PRICING_1_PRICE": "19.9",
+    "STARTER_PRICING_1_PRICE_CURRENCY": "$",
+    "STARTER_PRICING_1_PRICE_PERIOD": "每月",
+    "STARTER_PRICING_1_HEADER": "功能點",
+    "STARTER_PRICING_1_FEATURES": "所有的主題,免費更新,幫助手冊",
+    "STARTER_PRICING_1_BUTTON_TEXT": "立即購買",
+    "STARTER_PRICING_1_BUTTON_URL": "https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54",
+    "STARTER_PRICING_2_TAG": "推薦",
+    "STARTER_PRICING_2_TITLE": "基礎版",
+    "STARTER_PRICING_2_PRICE": "39.9",
+    "STARTER_PRICING_2_PRICE_CURRENCY": "$",
+    "STARTER_PRICING_2_PRICE_PERIOD": "每月",
+    "STARTER_PRICING_2_HEADER": "功能點",
+    "STARTER_PRICING_2_FEATURES": "包含入門版,項目源碼,內部社群,技術諮詢,SEO優化",
+    "STARTER_PRICING_2_BUTTON_TEXT": "立即購買",
+    "STARTER_PRICING_2_BUTTON_URL": "https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4",
+    "STARTER_PRICING_3_TITLE": "高級版",
+    "STARTER_PRICING_3_PRICE": "59.9",
+    "STARTER_PRICING_3_PRICE_CURRENCY": "$",
+    "STARTER_PRICING_3_PRICE_PERIOD": "每月",
+    "STARTER_PRICING_3_HEADER": "功能點",
+    "STARTER_PRICING_3_FEATURES": "包含基礎版,功能定制開發",
+    "STARTER_PRICING_3_BUTTON_TEXT": "立即購買",
+    "STARTER_PRICING_3_BUTTON_URL": "https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28"
+  },
+  
+  "用戶評價": {
+    "STARTER_TESTIMONIALS_ENABLE": false,
+    "STARTER_TESTIMONIALS_TITLE": "用戶反饋",
+    "STARTER_TESTIMONIALS_TEXT_1": "我們的用戶怎麼說",
+    "STARTER_TESTIMONIALS_TEXT_2": "數千位站長選擇用NotionNext搭建他們的網站,通過幫助手冊、交流社群以及技術諮詢，大家成功上線了自己的網站",
+    "STARTER_TESTIMONIALS_STAR_ICON": "/images/starter/testimonials/icon-star.svg"
+  },
+  
+  "FAQ常見問題": {
+    "STARTER_FAQ_ENABLE": true,
+    "STARTER_FAQ_TITLE": "常見問題解答",
+    "STARTER_FAQ_TEXT_1": "有任何問題嗎？請看這裡",
+    "STARTER_FAQ_TEXT_2": "我們收集了常見的用戶疑問",
+    "STARTER_FAQ_1_QUESTION": "什麼是水刀?",
+    "STARTER_FAQ_1_ANSWER": "問題解答(HTML格式)",
+    "STARTER_FAQ_2_QUESTION": "水刀能做什麼?",
+    "STARTER_FAQ_2_ANSWER": "問題解答(HTML格式)",
+    "STARTER_FAQ_3_QUESTION": "壓力這麼大會不會搞壞設備?",
+    "STARTER_FAQ_3_ANSWER": "問題解答(HTML格式)",
+    "STARTER_FAQ_4_QUESTION": "問題4",
+    "STARTER_FAQ_4_ANSWER": "問題解答(HTML格式)"
+  },
+  
+  "團隊成員": {
+    "STARTER_TEAM_ENABLE": false,
+    "STARTER_TEAM_TITLE": "團隊成員",
+    "STARTER_TEAM_TEXT_1": "我們的開發者團隊",
+    "STARTER_TEAM_TEXT_2": "NotionNext 由眾多開源技術愛好者們共同合作完成，感謝每一位<a className=\"underline\" href=\"https://github.com/tangly1024/NotionNext/graphs/contributors\">貢獻者</a>"
+  },
+  
+  "文章": {
+    "STARTER_BLOG_ENABLE": true,
+    "STARTER_BLOG_TITLE": "文章彙整",
+    "STARTER_BLOG_COUNT": 3,
+    "STARTER_BLOG_TEXT_1": "最近的新聞",
+    "STARTER_BLOG_TEXT_2": "這裡會發布一些最新動態"
+  },
+  
+  "聯繫我們": {
+    "STARTER_CONTACT_ENABLE": true,
+    "STARTER_CONTACT_TITLE": "聯繫我們",
+    "STARTER_CONTACT_TEXT": "告訴我們您遇到的問題",
+    "STARTER_CONTACT_LOCATION_TITLE": "我們的位置",
+    "STARTER_CONTACT_LOCATION_TEXT": "高雄、雲林",
+    "STARTER_CONTACT_EMAIL_TITLE": "我們如何幫助您？",
+    "STARTER_CONTACT_EMAIL_TEXT": "chiya.n20218@msa.hinet.net",
+    "STARTER_CONTACT_MSG_EXTERNAL_URL": "https://noteforms.com/forms/kkf9ng"
+  },
+  
+  "行動呼籲": {
+    "STARTER_CTA_ENABLE": false,
+    "STARTER_CTA_TITLE": "你還在等待什麼呢？",
+    "STARTER_CTA_TITLE_2": "現在開始吧",
+    "STARTER_CTA_DESCRIPTION": "訪問NotionNext的操作文檔，我們提供了詳細的教程，幫助你即刻搭建站點",
+    "STARTER_CTA_BUTTON": true,
+    "STARTER_CTA_BUTTON_URL": "https://docs.tangly1024.com/article/vercel-deploy-notion-next",
+    "STARTER_CTA_BUTTON_TEXT": "開始體驗"
+  },
+  
+  "頁尾": {
+    "STARTER_FOOTER_SLOGAN": "啟雅工程企業股份有限公司",
+    "STARTER_FOOTER_CONTACT_INFO": [
+      "高雄市林園區半部路92巷30號",
+      "電話：07-6428290",
+      "雲林縣麥寮鄉海豐村平和60之52",
+      "電話：05-6937784"
+    ],
+    "STARTER_FOOTER_LINK_GROUP": [
+      {
+        "TITLE": "主要服務項目",
+        "LINK_GROUP": [
+          { "TITLE": "水刀清洗", "URL": "/#home" },
+          { "TITLE": "水刀切割", "URL": "https://docs.tangly1024.com/about" },
+          {
+            "TITLE": "免入槽水刀清洗",
+            "URL": "https://docs.tangly1024.com/article/how-to-question"
+          },
+          {
+            "TITLE": "換熱器整修",
+            "URL": "https://docs.tangly1024.com/article/my-service"
+          }
+        ]
+      }
+    ],
+    "STARTER_FOOTER_BLOG_LATEST_TITLE": "最新文章",
+    "STARTER_FOOTER_PRIVACY_POLICY_TEXT": "隱私政策",
+    "STARTER_FOOTER_PRIVACY_POLICY_URL": "/privacy-policy",
+    "STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT": "法律聲明",
+    "STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL": "/legacy-notice",
+    "STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT": "服務協議",
+    "STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL": "/terms-of-use"
+  },
+  
+  "錯誤頁面": {
+    "STARTER_404_TITLE": "我們似乎找不到您要找的頁面。",
+    "STARTER_404_TEXT": "抱歉！您要查找的頁面不存在。可能已經移動或刪除。",
+    "STARTER_404_BACK": "回到主頁"
+  },
+  
+  "其他功能": {
+    "STARTER_POST_REDIRECT_ENABLE": true,
+    "STARTER_POST_REDIRECT_URL": "https://www.chiya.com.tw",
+    "STARTER_NEWSLETTER": false
+  }
+}

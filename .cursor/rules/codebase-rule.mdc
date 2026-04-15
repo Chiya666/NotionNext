@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 概要
+本專案是fork `Notion Next`專案再進行額外修改開發的網站
+
+
+
+
+# Your rule content
+
+- You can @ files here
+[Codebase_Rule.md](mdc:Codebase_Rule.md)
+[Codebase_Indexing.md](mdc:Codebase_Indexing.md)
+[Codebase_themes.md](mdc:Codebase_themes.md)
+[Codebase_themesChiya.md](mdc:Codebase_themesChiya.md)
+
+[tailwind.config.js](mdc:tailwind.config.js)
+[next.config.js](mdc:next.config.js)
+[blog.config.js](mdc:blog.config.js)
+[postcss.config.js](mdc:postcss.config.js)
+[next-sitemap.config.js](mdc:next-sitemap.config.js)
+
+# 相關連結
+
+- 母專案網址
+https://docs.tangly1024.com/article/latest
+
+- 母專案更新日誌
+https://docs.tangly1024.com/article/latest
